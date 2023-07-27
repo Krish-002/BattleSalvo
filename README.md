@@ -1,7 +1,5 @@
 # CLI BattleSalvo Game
 
-![BattleSalvo Logo](battle_salvo_logo.png)
-
 BattleSalvo is a Command Line Interface (CLI) game where players engage in strategic naval warfare. The game can be played locally against a computer with smart algorithms or as a multiplayer game over a server. It is implemented in Java and follows the Model-View-Controller (MVC) design pattern. The game incorporates various algorithms, data structures, and design principles to provide an enjoyable gaming experience.
 
 ## Table of Contents
